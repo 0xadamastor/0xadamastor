@@ -23,4 +23,8 @@
 
 <img src="assets/terminal.gif" alt="Terminal GIF" width="800"/>
 
+<div align="center">
+   <img src="example3.gif" alt="GIF1" width="50" />
+</div>
+
 </div>
