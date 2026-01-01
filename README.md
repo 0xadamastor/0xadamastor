@@ -19,12 +19,15 @@
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
-<img src="assets/disc.gif" alt="Disc GIF" width="300"/>
-
 <img src="assets/terminal.gif" alt="Terminal GIF" width="800"/>
 
-<div align="center">
-   <img src="example3.gif" alt="GIF1" width="50" />
-</div>
+---
+
+<p align="right">
+  <span style="display:inline-block; width:300px; text-align:center;">
+    <img src="assets/vinilspin.gif" width="300"><br>
+    oo ee oo
+  </span>
+</p>
 
 </div>
