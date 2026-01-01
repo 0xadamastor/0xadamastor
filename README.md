@@ -21,6 +21,6 @@
 
 <img src="assets/disc.gif" alt="Disc GIF" width="300"/>
 
-<img src="assets/terminal.gif" alt="Terminal GIF" width="300"/>
+<img src="assets/terminal.gif" alt="Terminal GIF" width="800"/>
 
 </div>
