@@ -24,8 +24,8 @@
 ---
 
 <p align="right">
-  <span style="display:inline-block; width:300px; text-align:center;">
-    <img src="assets/vinilspin.gif" width="300"><br>
+  <span style="display:inline-block; width:150px; text-align:center;">
+    <img src="assets/vinilspin.gif" width="200"><br>
     oo ee oo
   </span>
 </p>
